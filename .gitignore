@@ -1,0 +1,12 @@
+.idea/*
+*.class
+*.info
+*.iml
+*.png
+*.properties
+
+/out/
+# Package Files #
+*.jar
+*.war
+*.ear
