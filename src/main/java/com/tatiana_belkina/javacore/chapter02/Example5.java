@@ -10,7 +10,8 @@ class BlockTest {
         int x, y;
 
         y = 20;
-
+        double t = 0.888888888888888888888888888888d;
+        System.out.println(t);
         // адресатом этого оператора цикла служит блок код
         for (x = 0; x < 10; x++) {
             System.out.println("Значение x: " + x);

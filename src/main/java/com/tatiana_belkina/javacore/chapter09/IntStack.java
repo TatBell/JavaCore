@@ -2,6 +2,7 @@ package src.main.java.com.tatiana_belkina.javacore.chapter09;
 
 // Определите интерфейс целочисленного стека.
 interface IntStack {
+
     void push(int item); // сохранить item
 
     int pop(); // извлечь item

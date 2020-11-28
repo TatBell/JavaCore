@@ -14,5 +14,6 @@ public class Client implements Callback {
 
         Callback c = new Client();
         c.callback(42);
+
     }
 }

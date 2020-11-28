@@ -11,7 +11,7 @@ public interface MyIF1 {
         return "Default String";
     }
 
-    // Это метод статического интерфейса.
+    // Это статический метод  интерфейса.
     static int getDefaultNumber() {
         return 0;
     }

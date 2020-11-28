@@ -10,5 +10,6 @@ class Area {
         a = pi * r * r; // ыычислить площадь круга
 
         System.out.println("Площадь круга равна " + a);
+
     }
 }
