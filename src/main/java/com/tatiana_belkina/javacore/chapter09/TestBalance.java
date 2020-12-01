@@ -1,6 +1,6 @@
-package src.main.java.com.tatiana_belkina.javacore.chapter09;
+package src.main.java.com.tatiana_belkina.javacore.chapter03.chapter09;
 
-import src.main.java.com.tatiana_belkina.javacore.chapter09.MyPack.Balance1;
+import src.main.java.com.tatiana_belkina.javacore.chapter03.chapter09.MyPack.Balance1;
 
 public class TestBalance {
     public static void main(String[] args) {

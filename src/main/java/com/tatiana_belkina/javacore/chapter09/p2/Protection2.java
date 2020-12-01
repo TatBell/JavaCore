@@ -1,6 +1,6 @@
-package src.main.java.com.tatiana_belkina.javacore.chapter09.p2;
+package src.main.java.com.tatiana_belkina.javacore.chapter03.chapter09.p2;
 
-import src.main.java.com.tatiana_belkina.javacore.chapter09.p1.Protection;
+import src.main.java.com.tatiana_belkina.javacore.chapter03.chapter09.p1.Protection;
 
 class Protection2 extends Protection {
     Protection2() {

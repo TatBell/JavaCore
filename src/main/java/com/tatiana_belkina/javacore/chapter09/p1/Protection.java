@@ -1,4 +1,4 @@
-package src.main.java.com.tatiana_belkina.javacore.chapter09.p1;
+package src.main.java.com.tatiana_belkina.javacore.chapter03.chapter09.p1;
 
 public class Protection {
     int n = 1;

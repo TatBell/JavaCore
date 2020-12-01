@@ -1,4 +1,4 @@
-package src.main.java.com.tatiana_belkina.javacore.chapter09.MyPack;
+package src.main.java.com.tatiana_belkina.javacore.chapter03.chapter09.MyPack;
 
 class AccountBalance {
     public static void main(String[] args) {

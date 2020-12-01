@@ -1,7 +1,4 @@
-package src.main.java.com.tatiana_belkina.javacore.chapter09;
-
-import java.util.Arrays;
-import java.util.List;
+package src.main.java.com.tatiana_belkina.javacore.chapter03.chapter09;
 
 public class DynStack1 implements IntStack1{
         private int[] stck;

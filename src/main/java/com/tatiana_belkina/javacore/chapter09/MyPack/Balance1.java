@@ -1,4 +1,4 @@
-package src.main.java.com.tatiana_belkina.javacore.chapter09.MyPack;
+package src.main.java.com.tatiana_belkina.javacore.chapter03.chapter09.MyPack;
 
 /* Теперь класс Balance, его конструктор и его
    show () являются общедоступными. Это означает, что они
